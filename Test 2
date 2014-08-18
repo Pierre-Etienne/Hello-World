@@ -26,4 +26,8 @@ public enum Cell {
     public String getSymbol() {
         return symbol;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> FETCH_HEAD
